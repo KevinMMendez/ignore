@@ -1,4 +1,4 @@
-<img src="images/logo_text.png" style="width: 160px; float: right;">
+<img src="cimcb_logo.png" style="width: 160px; float: right;">
 
 # README.md - `SI_Mendez_etal_2019`   
 
