@@ -30,7 +30,7 @@
 
 #### *To download and run notebooks on a local machine*
 
-_Note: If you are using Windows, you need to install git using the following: [Git for Windows](https://gitforwindows.org/)
+<i>Note: If you are using Windows, you need to install git using the following:<i/> [Git for Windows](https://gitforwindows.org/)
 
 1. Open Terminal on Linux/MacOS or Command Prompt on Windows
 2. Enter the following into the console (one line at a time)
