@@ -8,18 +8,21 @@ In this study, a shallow (2-layer) ANN is used due to the structural equivalence
 
 The standardised PLS workflow and the proposed equivalent ANN workflow include the following steps: hyperparameter optimisation, building and training the model, bootstrap resampling of the model, model evaluation, and model visualisation. All steps and accompanying visualisation methods are described in the workflows above the corresponding code cell. These workflows were implemented using the Python programming language, and are presented as Jupyter Notebooks. There are three ways to that these can be accessed: as a static html, in the cloud, or on a local machine.
 
+</br>
 #### *To open notebooks as a static file:* 
 -  [Method: PLS-DA; Dataset: ST001047](https://kevinmmendez.github.io/ignore/static/PLSDA_ST001047.html)
 -  [Method: ANN-SS; Dataset: ST001047](https://kevinmmendez.github.io/ignore/static/ANNSigSig_ST001047.html)
 -  [Method: PLS-DA; Dataset: MTBLS90](https://kevinmmendez.github.io/ignore/static/PLSDA_MTBLS90.html)
 -  [Method: ANN-SS; Dataset: MTBLS90](https://kevinmmendez.github.io/ignore/static/ANNSigSig_MTBLS90.html)
 
+</br>
 #### *To launch the notebooks in the cloud:* 
 -  [Method: PLS-DA; Dataset: ST001047](https://mybinder.org/v2/gh/kevinmmendez/ignore/master?filepath=notebook/static/PLSDA_ST001047.ipynb)
 -  [Method: ANN-SS; Dataset: ST001047](https://mybinder.org/v2/gh/kevinmmendez/ignore/master?filepath=notebook/static/ANNSigSig_ST001047.ipynb)
 -  [Method: PLS-DA; Dataset: MTBLS90](https://mybinder.org/v2/gh/kevinmmendez/ignore/master?filepath=notebook/static/PLSDA_MTBLS90.ipynb)
 -  [Method: ANN-SS; Dataset: MTBLS90](https://mybinder.org/v2/gh/kevinmmendez/ignore/master?filepath=notebook/static/ANNSigSig_MTBLS90.ipynb)
 
+</br>
 #### *To download and run notebooks on a local machine*
 
 **Note: If you are using Windows, you need to install git using the following: [Git for Windows](https://gitforwindows.org/)**
